@@ -1,0 +1,81 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+0,POKEMONTRAINER_Earl,Pokémon Trainer,60,,,,Male,
+1,POKEMONTRAINER_May,Pokémon Trainer,60,117-battle-trainer.mp3,,,Female,
+2,POKEMONTRAINER_Brendan,Pokémon Trainer,60,,,,Male,
+3,POKEMONTRAINER_Eve,Rival,16,,,,Female,
+4,POKEMONTRAINER_Earl,Rival,16,,,,Male,
+5,RIVAL2,Rival,36,,,,Female,
+6,AROMALADY,Aroma Lady,32,,,,Female,
+7,BEAUTY,Beauty,56,,,,Female,
+8,BIKER,Biker,32,,,,Male,
+9,BIRDKEEPER,Bird Keeper,32,,,,Male,
+10,BUGCATCHER,Bug Catcher,16,,,,Male,
+11,BURGLAR,Burglar,88,,,,Male,32
+12,CHANELLER,Channeler,32,,,,Female,
+13,CUEBALL,Cue Ball,24,,,,Male,
+14,ENGINEER,Engineer,48,,,,Male,
+15,FISHERMAN,Fisherman,32,,,,Male,
+16,GAMBLER,Gambler,72,,,,Male,32
+17,GENTLEMAN,Gentleman,72,,,,Male,
+18,HIKER,Hiker,32,,,,Male,
+19,JUGGLER,Juggler,32,,,,Male,
+20,LADY,Lady,160,,,,Female,72
+21,PAINTER,Painter,16,,,,Female,
+22,POKEMANIAC,Poké Maniac,64,,,,Male,
+23,POKEMONBREEDER,Pokémon Breeder,48,,,,Female,
+24,PROFESSOR,Professor,100,,,,Male,
+25,ROCKER,Rocker,24,,,,Male,
+26,RUINMANIAC,Ruin Maniac,48,,,,Male,
+27,SAILOR,Sailor,32,,,,Male,
+28,SCIENTIST,Scientist,48,,,,Male,
+29,SUPERNERD,Super Nerd,48,,,,Male,
+30,TAMER,Tamer,40,,,,Male,
+31,BLACKBELT,Black Belt,32,,,,Male,
+32,CRUSHGIRL,Crush Girl,24,,,,Female,
+33,CAMPER,Camper,16,,,,Male,
+34,PICNICKER,Picnicker,16,,,,Female,
+35,COOLTRAINER_M,Cool Trainer,60,,,,Male,
+36,COOLTRAINER_F,Cool Trainer,60,,,,Female,
+37,YOUNGSTER,Youngster,16,,,,Male,
+38,LASS,Lass,16,,,,Female,
+39,POKEMONRANGER_M,Pokémon Ranger,60,,,,Male,
+40,POKEMONRANGER_F,Pokémon Ranger,60,,,,Female,
+41,PSYCHIC_M,Psychic,32,,,,Male,
+42,PSYCHIC_F,Psychic,32,,,,Female,
+43,SWIMMER_M,Swimmer,16,,,,Male,32
+44,SWIMMER_F,Swimmer,16,,,,Female,32
+45,SWIMMER2_M,Swimmer,16,,,,Male,32
+46,SWIMMER2_F,Swimmer,16,,,,Female,32
+47,TUBER_M,Tuber,4,,,,Male,16
+48,TUBER_F,Tuber,4,,,,Female,16
+49,TUBER2_M,Tuber,4,,,,Male,16
+50,TUBER2_F,Tuber,4,,,,Female,16
+51,COOLCOUPLE,Cool Couple,72,,,,Mixed,48
+52,CRUSHKIN,Crush Kin,48,,,,Mixed,
+53,SISANDBRO,Sis and Bro,16,,,,Mixed,48
+54,TWINS,Twins,24,,,,Mixed,
+55,YOUNGCOUPLE,Young Couple,60,,,,Mixed,32
+56,NOVAGRUNT_M,Nova Grunt,32,125-battle-aqua-magma-team.mp3,,,Male,
+57,NOVAGRUNT_F,Nova Grunt,32,125-battle-aqua-magma-team.mp3,,,Female,
+58,NOVABOSS,Nova Boss,100,,,,Male,
+59,LEADER_Brock,Gym Leader,100,gymleader,,,Male,
+60,LEADER_Misty,Gym Leader,100,gymleader,,,Female,
+61,LEADER_LtSurge,Gym Leader,100,gymleader,,,Male,
+62,LEADER_Erika,Gym Leader,100,gymleader,,,Female,
+63,LEADER_Koga,Gym Leader,100,gymleader,,,Male,
+64,LEADER_Sabrina,Gym Leader,100,gymleader,,,Female,
+65,LEADER_Blaine,Gym Leader,100,gymleader,,,Male,
+66,LEADER_Giovanni,Gym Leader,100,gymleader,,,Male,
+67,ELITEFOUR_Cecilia,Elite Four,100,elite,,,Female,
+68,ELITEFOUR_Nikolai,Elite Four,100,elite,,,Male,
+69,ELITEFOUR_Dwayne,Elite Four,100,elite,,,Male,
+70,ELITEFOUR_Waverly,Elite Four,100,elite,,,Female,
+71,CHAMPION_Damian,Champion,100,elite,,,Male,
+72,LEADER_Norma,Gym Leader,100,gymleader,,,Female,
+73,LEADER_Alice,Gym Leader,100,gymleader,,,Female,
+74,LEADER_Sandor,Gym Leader,100,gymleader,,,Male,
+75,LEADER_Agnus,Gym Leader,100,gymleader,,,Female,
+76,LEADER_Damian,Gym Leader,100,gymleader,,,Male,
+77,LEADER_Ulysses,Gym Leader,100,gymleader,,,Male,
+78,LEADER_Irene,Gym Leader,100,gymleader,,,Female,
+79,LEADER_Pan,Gym Leader,100,gymleader,,,Female,

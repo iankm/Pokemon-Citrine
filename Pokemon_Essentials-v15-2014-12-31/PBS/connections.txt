@@ -1,0 +1,50 @@
+# Route 1 (77) - Estuaria Town (5)
+77,North,0,5,South,0
+# Route 2 (6) - Estuaria Town (5)
+6,West,0,5,East,0
+# Lotide Jungle (79) - Estuaria Town (5)
+79,West,0,5,East,91
+# Cape Driftwood (2) - Estuaria Town (5)
+2,East,0,5,West,53
+# Estuaria Grotto (32) - Estuaria Town (5)
+32,East,30,5,West,0
+# Route 2 (6) - Route 1 (77)
+6,West,60,77,East,0
+# Lotide Jungle (79) - Route 1 (77)
+79,West,0,77,East,31
+# Cape Driftwood (2) - Route 1 (77)
+2,East,7,77,West,0
+# Estuaria Grotto (32) - Route 1 (77)
+32,East,90,77,West,0
+# Cape Driftwood (2) - Driftwood City (33)
+2,South,0,33,North,0
+# Underwater (48) - Driftwood City (33)
+48,East,0,33,West,110
+# Underwater Cavern (76) - Driftwood City (33)
+76,East,0,33,West,170
+# Water Route (43) - Driftwood City (33)
+43,North,0,33,South,0
+# Lotide Jungle (79) - Route 2 (6)
+79,North,0,6,South,0
+# Route 4 (80) - Route 2 (6)
+80,West,0,6,East,161
+# Underwater (48) - Underwater Cavern (78)
+48,East,50,78,West,0
+# Underwater Cavern (76) - Underwater Cavern (78)
+76,East,0,78,West,10
+# Route 4 (80) - Lotide Jungle (79)
+80,North,0,79,South,60
+# Lotide Town (81) - Lotide Jungle (79)
+81,West,0,79,East,66
+# Underwater (48) - Cape Driftwood (2)
+48,East,0,2,West,150
+# Underwater Cavern (76) - Cape Driftwood (2)
+76,East,0,2,West,210
+# Lotide Town (81) - Route 4 (80)
+81,West,4,80,East,0
+# Underwater Cavern (76) - Underwater (48)
+76,North,0,48,South,0
+# Water Route (43) - Underwater (48)
+43,West,60,48,East,0
+# Water Route (43) - Underwater Cavern (76)
+43,West,120,76,East,0
